@@ -1,4 +1,4 @@
-# Youtube Downloader
+# Video Downloader
  
 This is a small little Python script that is able to download Youtube videos at the highest resolution available via the Pytube library. 
 
